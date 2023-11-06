@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola mi nombre es José, algunos me dicen pepetrueno, ¡Bienvenido! 👋
 
 <!--
 **Jpepetrueno/Jpepetrueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
