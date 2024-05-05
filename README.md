@@ -1,4 +1,4 @@
-### Hola me llamo José David, soy ingeniero electricista y en mis tiempos libres me divierto escribiendo código. ¡Bienvenido! 👋
+### Hola me llamo José David, soy ingeniero electricista y en los tiempos libres me divierto escribiendo código. ¡Bienvenido! 👋
 
 <!--
 **Jpepetrueno/Jpepetrueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
