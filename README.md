@@ -1,4 +1,4 @@
-### Hi, my name is David, I'm an electrical engineer and I enjoy hacking. Welcome! 👋
+### Hello, I’m David, an electrical engineer and a computer programmer. Welcome! 👋
 
 <!--
 **Jpepetrueno/Jpepetrueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
